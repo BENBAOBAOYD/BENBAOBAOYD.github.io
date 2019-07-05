@@ -3,9 +3,20 @@
   
     
     <entry>
-      <title><![CDATA[我的第一篇博客文章]]></title>
+      <title><![CDATA[20190705]]></title>
+      <url>/2019/07/05/20190705/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[hexo博客搭建]]></title>
       <url>/2019/07/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
       <content type="html"><![CDATA[<h1 id="TOPORA-使用"><a href="#TOPORA-使用" class="headerlink" title="TOPORA 使用"></a>TOPORA 使用</h1><p><a href="https://www.jianshu.com/p/b7fd16a44508" target="_blank" rel="noopener">https://www.jianshu.com/p/b7fd16a44508</a></p>
+<h1 id="搭建流程"><a href="#搭建流程" class="headerlink" title="搭建流程"></a>搭建流程</h1><p><a href="https://www.bilibili.com/video/av44544186/" target="_blank" rel="noopener">https://www.bilibili.com/video/av44544186/</a></p>
+<h1 id="archer主题使用"><a href="#archer主题使用" class="headerlink" title="archer主题使用"></a>archer主题使用</h1><p><a href="https://github.com/fi3ework/hexo-theme-archer" target="_blank" rel="noopener">https://github.com/fi3ework/hexo-theme-archer</a></p>
+<p>命令提示符<br>mkdir name 在指定路径下创建新的文件夹<br>cd name 进入路径中制定文件夹<br>cd .... 退两层文件夹<br>hexo主题克隆<br>git clone <a href="https://github.com/litten/hexo-theme-yilia.git" target="_blank" rel="noopener">https://github.com/litten/hexo-theme-yilia.git</a> themes/yilia<br>mellow使用教程<br><a href="https://github.com/codefine/hexo-theme-mellow/wiki" target="_blank" rel="noopener">https://github.com/codefine/hexo-theme-mellow/wiki</a></p>
 ]]></content>
       
         
